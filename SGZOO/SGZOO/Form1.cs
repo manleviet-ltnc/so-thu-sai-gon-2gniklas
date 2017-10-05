@@ -67,7 +67,7 @@ namespace SGZOO
         {
             StreamReader reader = new StreamReader("ThuMoi.txt");
             if (reader == null) return;
-            string input;
+            string input = null;
             while ((input = reader.ReadLine()) != null)
             {
                 lstThuMoi.Items.Add(input);
