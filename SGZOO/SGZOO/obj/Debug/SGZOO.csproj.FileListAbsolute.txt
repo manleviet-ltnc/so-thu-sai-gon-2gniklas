@@ -1,0 +1,9 @@
+E:\Data\GitHub\so-thu-sai-gon-2gniklas\SGZOO\SGZOO\bin\Debug\SGZOO.exe.config
+E:\Data\GitHub\so-thu-sai-gon-2gniklas\SGZOO\SGZOO\bin\Debug\SGZOO.exe
+E:\Data\GitHub\so-thu-sai-gon-2gniklas\SGZOO\SGZOO\bin\Debug\SGZOO.pdb
+E:\Data\GitHub\so-thu-sai-gon-2gniklas\SGZOO\SGZOO\obj\Debug\SGZOO.csprojResolveAssemblyReference.cache
+E:\Data\GitHub\so-thu-sai-gon-2gniklas\SGZOO\SGZOO\obj\Debug\SGZOO.Form1.resources
+E:\Data\GitHub\so-thu-sai-gon-2gniklas\SGZOO\SGZOO\obj\Debug\SGZOO.Properties.Resources.resources
+E:\Data\GitHub\so-thu-sai-gon-2gniklas\SGZOO\SGZOO\obj\Debug\SGZOO.csproj.GenerateResource.Cache
+E:\Data\GitHub\so-thu-sai-gon-2gniklas\SGZOO\SGZOO\obj\Debug\SGZOO.exe
+E:\Data\GitHub\so-thu-sai-gon-2gniklas\SGZOO\SGZOO\obj\Debug\SGZOO.pdb
