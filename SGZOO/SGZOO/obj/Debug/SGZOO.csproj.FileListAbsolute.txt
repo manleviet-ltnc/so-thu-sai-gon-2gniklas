@@ -27,3 +27,13 @@ C:\Users\TGDD\Documents\GitHub\so-thu-sai-gon-2gniklas\SGZOO\SGZOO\obj\Debug\SGZ
 C:\Users\TGDD\Documents\GitHub\so-thu-sai-gon-2gniklas\SGZOO\SGZOO\obj\Debug\SGZOO.csproj.CoreCompileInputs.cache
 C:\Users\TGDD\Documents\GitHub\so-thu-sai-gon-2gniklas\SGZOO\SGZOO\obj\Debug\SGZOO.exe
 C:\Users\TGDD\Documents\GitHub\so-thu-sai-gon-2gniklas\SGZOO\SGZOO\obj\Debug\SGZOO.pdb
+C:\Users\thuchanh\Documents\GitHub\so-thu-sai-gon-2gniklas\SGZOO\SGZOO\bin\Debug\SGZOO.exe.config
+C:\Users\thuchanh\Documents\GitHub\so-thu-sai-gon-2gniklas\SGZOO\SGZOO\bin\Debug\SGZOO.exe
+C:\Users\thuchanh\Documents\GitHub\so-thu-sai-gon-2gniklas\SGZOO\SGZOO\bin\Debug\SGZOO.pdb
+C:\Users\thuchanh\Documents\GitHub\so-thu-sai-gon-2gniklas\SGZOO\SGZOO\obj\Debug\SGZOO.csprojResolveAssemblyReference.cache
+C:\Users\thuchanh\Documents\GitHub\so-thu-sai-gon-2gniklas\SGZOO\SGZOO\obj\Debug\SGZOO.Form1.resources
+C:\Users\thuchanh\Documents\GitHub\so-thu-sai-gon-2gniklas\SGZOO\SGZOO\obj\Debug\SGZOO.Properties.Resources.resources
+C:\Users\thuchanh\Documents\GitHub\so-thu-sai-gon-2gniklas\SGZOO\SGZOO\obj\Debug\SGZOO.csproj.GenerateResource.Cache
+C:\Users\thuchanh\Documents\GitHub\so-thu-sai-gon-2gniklas\SGZOO\SGZOO\obj\Debug\SGZOO.csproj.CoreCompileInputs.cache
+C:\Users\thuchanh\Documents\GitHub\so-thu-sai-gon-2gniklas\SGZOO\SGZOO\obj\Debug\SGZOO.exe
+C:\Users\thuchanh\Documents\GitHub\so-thu-sai-gon-2gniklas\SGZOO\SGZOO\obj\Debug\SGZOO.pdb
