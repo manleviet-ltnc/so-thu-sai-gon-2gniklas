@@ -46,7 +46,7 @@ namespace SGZOO
                 lb.Items.Add(e.Data.GetData(DataFormats.Text));
             }
         }
-
+        bool isSave = false;
         private void Save(object sender, EventArgs e)
         {
             // Open file
@@ -98,6 +98,36 @@ namespace SGZOO
         private void Form1_Load(object sender, EventArgs e)
         {
             timer1.Enabled = true;
+        }
+
+        private void tableLayoutPanel1_Paint(object sender, PaintEventArgs e)
+        {
+
+        }
+
+        private void btnDelete_Click(object sender, EventArgs e)
+        
+            {
+                lstDsThu.Items.Remove(lstDsThu.SelectedItem);
+
+            }
+        private void Form1_FormClosing(object sender, FormClosingEventArgs e)
+        {
+            if (isSave == false)
+            {
+                DialogResult kq = MessageBox.Show("Bạn có muốn lưu danh sách?", "THÔNG BÁO", MessageBoxButtons.YesNoCancel, MessageBoxIcon.Question);
+                if (kq == DialogResult.Yes)
+                {
+                    Save(sender, e);
+                    e.Cancel = false;
+                }
+                else if (kq == DialogResult.No)
+                    e.Cancel = false;
+                else
+                    e.Cancel = true;
+            }
+            else
+                mnuExit_Click(sender, e);
         }
     }
 }
